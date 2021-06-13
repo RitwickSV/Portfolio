@@ -3,9 +3,9 @@
 This repository is to showcase my talent in using various datasets and generating the regression, classification and the time series forecasting models.
  
 This repository contains the scaled down versions of the following projects: 
-1. Churn prediction which uses:
-   1.1 K Means Clustering
-   1.2 XGBoost Classification
+- Churn prediction which uses:
+ - K Means Clustering
+ - XGBoost Classification
 2. End to End customer Segementation which performs:
    1.1 RFM Clustering
    1.2 LTV Prediction
